@@ -1,2 +1,2 @@
-# Dog-Cat-Classifier-using-CNN
-A simple project which classifies the images and tell whether its an image of a dog or a cat using tensorflow and keras.
+# Restaurant-Reviews-using-NLP
+A simple project in python which reads a tsv file, cleans the restaurant reviews(text) and tells whether the review is a positive one or a negative one. 
